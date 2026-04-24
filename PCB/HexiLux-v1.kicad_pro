@@ -58,7 +58,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|133600000|144397000|953fde5b-71cc-4345-82dc-05e8acf0ef91|d1f6a13f-a41f-4b1d-88f2-e1583e20fd96",
+          ""
+        ],
+        [
+          "hole_clearance|133800000|144397000|953fde5b-71cc-4345-82dc-05e8acf0ef91|3ca3745d-b3fc-47c2-8914-f9c7d8c5e9e2",
+          ""
+        ],
+        [
+          "hole_clearance|139200000|144397000|ec58bf9a-f70b-4028-a742-0911b0bbb1a2|a2d2d456-4c70-4190-822f-0d7ec49335c0",
+          ""
+        ],
+        [
+          "hole_clearance|139400000|144397000|ec58bf9a-f70b-4028-a742-0911b0bbb1a2|268c66f5-9149-4457-98b6-13c81fd40955",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -500,10 +517,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/HexiLux-PCB.step",
       "svg": "",
       "vrml": ""
     },
