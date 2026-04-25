@@ -2,7 +2,7 @@
 Made for Hack Club Fallout.
 
 ## Zine
-In progress.
+![Zine](IMG/HexiLux-Zine.png)
 
 ## What does it do?
 A custom open-source smart lighting solution, using tiling hexagonal panels. Featuring music sync and home assistant compatibility. 
@@ -37,7 +37,7 @@ In order to make this project for yourself, you'll need to purchase/3D print the
 
 ### Build Guide:
 
-#### 1. Preparation<br>
+#### 1. Preparation
 Before starting, make sure you have:
 <ul>
 <li>All components from the BOM
