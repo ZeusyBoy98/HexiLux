@@ -51,6 +51,8 @@ Before starting, make sure you have:
 
 #### 2. Soldering
 Take your pcb and begin soldering components to it<br>
+Wiring schematic:
+![schematic](IMG/schematic.png)
 Recommended order:
 <ul>
 <li>SMD Components (resistors/capacitors, neopixels, logic converters)
@@ -83,6 +85,5 @@ Enjoy your HexiLux panel!
 ![image](IMG/angled.PNG)
 
 ## Designing
-![image](IMG/schematic.png)
 ![image](IMG/pcb.png)
 ![image](IMG/case.png)
